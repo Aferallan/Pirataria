@@ -110,7 +110,7 @@ Downloads diretos são qualquer download normal. Você baixa o arquivo de um ser
  - [Zamunda](https://zamunda.net/) - para versões Linux. Requer registro. Para baixar jogos Linux você terá que navegar até “Банани” (Bananas) e escolher “Jogos Linux” nos filtros.
 
 **Diversos**
- - [UltimMC](https://github.com/UltimMC/Launcher) | [PollyMC](https://github.com/fn2006/PollyMC) (Fork do launcher prism) | Launcher legado [(1)](https://llaun.ch/en) [(2)](https://ll4n.ru) | [SKlauncher](https://skmedix.pl/) (para baixar, desative o adblock) - para Minecraft.
+ - [UltimMC](https://github.com/UltimMC/Launcher) | [PollyMC](https://github.com/fn2006/PollyMC) (Fork do PRISM Launcher) | Launcher legado [(1)](https://llaun.ch/en) [(2)](https://ll4n.ru) | [SKlauncher](https://skmedix.pl/) (para baixar, desative o adblock) - para Minecraft.
  - [Moriya Shrine](https://moriyashrine.org/) - Para jogos de Touhou.
  - [f95zone](https://f95zone.to) - Para jogos VN's/NSFW.
 
@@ -169,33 +169,32 @@ Observe que nenhum desses sites fornece downloads, apenas informações sobre la
 - [Myrient](https://myrient.erista.me/)
 - [NXBrew](https://nxbrew.com) - Nintendo Switch
 - [TheRomDepot](https://theromdepot.com)
-- [Toca do Vimm](https://vimm.net/?p=vault)
+- [Vimm's Lair](https://vimm.net/?p=vault)
 - [Ziperto](https://www.ziperto.com/)
 
 ### Emuladores
 **Observação: alguns desses sites podem exigir arquivos de BIOS/chave. Eles estão marcados com \* .**
 - [GameTechWiki](https://emulation.gametechwiki.com/) - The Emulation Wiki - Você pode encontrar arquivos BIOS para esses emuladores neste site
- - [ares](https://ares-emu.net/) \* | [MAME](https://www.mamedev.org/index.php) \* | [Mednafen](https://mednafen.github.io/) \* | [RetroArch](https://www.retroarch.com/) \* - Emuladores multissistema
- - [bsnes](https://github.com/bsnes-emu/bsnes) | [Snes9x](https://www.snes9x.com/) – para jogos SNES.
- - [Projeto64](https://www.pj64-emu.com/) | [RMG](https://github.com/Rosalie241/RMG) | [simple64](https://simple64.github.io/) – para jogos Nintendo 64.
- - [Emulador Dolphin](https://dolphin-emu.org/) - para jogos GameCube / Wii.
- - [mGBA](https://mgba.io/) | [VBA-M](https://vba-m.com/) – para jogos GBA.
- - [DeSmuME](https://desmume.org/) | [melonDS](https://melonds.kuribo64.net/) - para jogos de DS.
- - [Cemu](http://cemu.info/) - para jogos Wii U.
- - [Citra](https://citra-emu.org/) - para jogos 3DS.
- - [Ryujinx](https://ryujinx.org/) \* | [Yuzu](https://yuzu-emu.org/) \* - para jogos Nintendo Switch.
- - [DuckStation](https://www.duckstation.org/) \* | [ePSXe](https://www.epsxe.com/) \* – para jogos de PlayStation 1.
- - [PCSX2](https://pcsx2.net/) \* - para jogos de PS2.
- - [PPSSPP](https://www.ppsspp.org/index.html) - para jogos PSP.
- - [Vita3K](https://vita3k.org/) - para jogos PSVita.
- - [RCPS3](https://rpcs3.net/) - para jogos PS3.
- - [Xemu](https://xemu.app/) \* - para jogos XBOX originais.
- - [Xenia](https://xenia.jp/) - para jogos XBOX 360.
- - [KEGA Fusion](https://www.carpeludum.com/kega-fusion/) \* - para jogos SEGA Genesis/Mega Drive.
- - [Mesen2](https://github.com/SourMesen/Mesen2) | [puNes](https://github.com/punesemu/puNES) – para jogos NES.
- - [Flycast](https://github.com/flyinghead/flycast) | [redream](https://redream.io/) - para jogos Dreamcast.
+- [ares](https://ares-emu.net/) \* | [MAME](https://www.mamedev.org/index.php) \* | [Mednafen](https://mednafen.github.io/) \* | [RetroArch](https://www.retroarch.com/) \* - Emuladores multissistema
+- [bsnes](https://github.com/bsnes-emu/bsnes) | [Snes9x](https://www.snes9x.com/) – para jogos SNES.
+- [Project64](https://www.pj64-emu.com/) | [RMG](https://github.com/Rosalie241/RMG) | [simple64](https://simple64.github.io/) – para jogos Nintendo 64.
+- [Emulador Dolphin](https://dolphin-emu.org/) - para jogos GameCube / Wii.
+- [mGBA](https://mgba.io/) | [VBA-M](https://vba-m.com/) – para jogos GBA.
+- [DeSmuME](https://desmume.org/) | [melonDS](https://melonds.kuribo64.net/) - para jogos de DS.
+- [Cemu](http://cemu.info/) - para jogos Wii U.
+- [Citra](https://citra-emu.org/) - para jogos 3DS.
+- [Ryujinx](https://ryujinx.org/) \* | [Yuzu](https://yuzu-emu.org/) \* - para jogos Nintendo Switch.
+- [DuckStation](https://www.duckstation.org/) \* | [ePSXe](https://www.epsxe.com/) \* – para jogos de PlayStation 1.
+- [PCSX2](https://pcsx2.net/) \* - para jogos de PS2.
+- [PPSSPP](https://www.ppsspp.org/index.html) - para jogos PSP.
+- [Vita3K](https://vita3k.org/) - para jogos PSVita.
+- [RCPS3](https://rpcs3.net/) - para jogos PS3.
+- [Xemu](https://xemu.app/) \* - para jogos XBOX originais.
+- [Xenia](https://xenia.jp/) - para jogos XBOX 360.
+- [KEGA Fusion](https://www.carpeludum.com/kega-fusion/) \* - para jogos SEGA Genesis/Mega Drive. - [Mesen2](https://github.com/SourMesen/Mesen2) | [puNes](https://github.com/punesemu/puNES) – para jogos NES.
+- [Flycast](https://github.com/flyinghead/flycast) | [redream](https://redream.io/) - para jogos Dreamcast.
  
- \* Pode exigir arquivos de BIOS/chave adicionais para jogar
+ \* Pode exigir arquivos de BIOS/keys adicionais para jogar
 
 ---
 ### Ferramentas
@@ -217,22 +216,22 @@ Observe que nenhum desses sites fornece downloads, apenas informações sobre la
 - [Steamless](https://github.com/atom0s/Steamless/releases)
 ---
 ### Programa inseguros
-- BitTorrent/μTorrent - Inclui anúncios, rastreadores e até mineradores BTC carregados com seu software. A “versão segura” do µTorrent, v2.2.1, também não é confiável devido a explorações de segurança confirmadas.
+- BitTorrent/μTorrent - Inclui anúncios, rastreadores e instala mineradores de criptomoedas ao usar o software. A “versão segura” do µTorrent, v2.2.1, também não é confiável devido a brechas segurança confirmadas.
 - CCleaner - Propriedade da Avast.
-- Avast – Notório por coletar e vender dados de usuários.
+- [Avast](https://canaltech.com.br/seguranca/avast-acusada-vender-informacoes-de-usuarios-atraves-de-antivirus-pc-159659/) – Notório por coletar e vender dados de usuários.
 - Qualquer VPN Crackeada!
 
 ---
 ### Sites não confiáveis
-!!! note Observação: mesmo que pareça que um jogo que pode não ser tão popular está presente apenas em um site inseguro, consulte cs.rin.ru. Esses arquivos geralmente serão arquivos limpos. Os arquivos crackeados serão fornecidos nos comentários do tópico. Caso contrário, aplique o crack você mesmo com a ajuda das ferramentas listadas na [Seção de Ferramentas.](https://rentry.org/MegathreadBR_Jogos-Piratas/#ferramentas)
+!!! note Observação: mesmo que pareça que um jogo só está disponivel em um site inseguro, consulte cs.rin.ru. Esses arquivos geralmente serão arquivos limpos. Os arquivos crackeados serão fornecidos nos comentários do tópico. Caso contrário, aplique o crack você mesmo com a ajuda das ferramentas listadas na [Seção de Ferramentas.](https://rentry.org/MegathreadBR_Jogos-Piratas/#ferramentas)
  
  - **IGG Games / PCGamesTorrents / LoadGames / GamesTorrents - eles doxxed mercs213 (proprietário da GoodOldDownloads), empacotam seu próprio DRM, mineradores de criptografia, bem como malware, e exploram você para obter receita publicitária.**
  - **SteamUnlocked / GOG Unlocked / ROMs desbloqueadas - downloads lentos, redirecionamentos de links maliciosos e uploads roubados de IGG Games e nosTEAM.**
  - **TLauncher - contém spyware**
  - **Qualquer site que tenha sido interrompido/não pertencente aos seus proprietários originais. Esses incluem:**
    - The Pirate Bay / TPB - Risco de malware. Usuários com caveira e o uploader “dauphong” também não são seguros.
-   - Qualquer site que finja ser RARBG. Este site foi desativado e outras alternativas maliciosas, ligadas ao TPB, têm surgido. Não acredite neles.
-   - Torrents Kickass - Risco de malware.
+   - Qualquer site que finja ser o RARBG. Este site foi desativado e outras alternativas maliciosas, ligadas ao TPB, têm surgido. Não acredite neles.
+   - Kickass Torrents - Risco de malware.
  - **Qualquer site com nome de grupo da cena na URL - GRUPOS DA CENA NÃO TÊM SITES! (Exemplos como CODEX, CPY, SKIDROW, HOODLUM, RELOADED, SiMPLEX, DARKSiDERS, PLAZA, etc. Eles não possuem sites. Sites com combinação desses nomes também não são seguros.) **
  - **Qualquer site que você encontrar no Google pesquisando por "downloads de jogos gratuitos", "jogos crackeados", etc. O Google remove sites de pirataria de seus resultados de pesquisa, o que significa que sites falsos e de disseminação de malware aparecerão no topo dos resultados da pesquisa. Isso também se aplica a pesquisas no YouTube.**
 - AGFY - links fraudulentos
@@ -247,15 +246,15 @@ Observe que nenhum desses sites fornece downloads, apenas informações sobre la
 - GameFabrique - Instaladores de adware, uploads de sites não confiáveis, como IGG Games
 - kLauncher (minecraft) - contém malware
 - Nexus Games / WorldOfPCGames / steamrepacks / jogos desbloqueados - downloads maliciosos
-- nosTEAM - Risco de malware, mineradores BTC carregados.
+- nosTEAM - Risco de malware, instalam mineradores de criptomoedas
 - OceanOfGames / OceanOfAPKs - Alto risco de malware.
 - RepackGames - Rotular jogos incorretamente e roubar lançamentos.
-- Seyter/Qoob - os pacotes contêm mineradores de bitcoin.
+- Seyter/Qoob - os pacotes instalam mineradores de criptomoedas
 - Wifi4games - downloads de malware.
 ### Uplodears não confiáveis
 Eles podem estar em sites de torrent. Seja cauteloso e não baixe jogos deles.
 Algumas das pessoas na seção de sites inseguros também podem aparecer em outros sites, mesmo que não sejam mencionadas. Por favor, evite fazer download deles.
-- **IGG Games / PCGamesTorrents / LoadGames / GamesTorrents - eles fizeram doxxing no mercs213 (proprietário da GoodOldDownloads), empacotam seu próprio DRM, mineradores de criptomoedas, bem como malware, e exploram você para obter receita publicitária.**
+- **IGG Games / PCGamesTorrents / LoadGames / GamesTorrents - eles fizeram doxxing no 'mercs213' (proprietário da GoodOldDownloads), colocam seu próprio DRM, mineradores de criptomoedas, bem como malware, e exploram você para obter receita publicitária.**
  - **Qualquer pessoa do The Pirate Bay / TPB**
 - anr285
 - BBRepacks
@@ -264,14 +263,14 @@ Algumas das pessoas na seção de sites inseguros também podem aparecer em outr
 - CracksHash
 - haxnode
 - IGI30
-- nosTEAM - Risco de malware, mineradores BTC carregados.
+- nosTEAM - Risco de malware, instala mineradores de criptomoedas
 - OceanOfGames / OceanOfAPKs - Alto risco de malware.
 - RepackGames - rotular jogos incorretamente e roubar lançamentos.
 - SadeemAPK
 - SadeemPC
-- Seyter/Qoob - os pacotes contêm mineradores de bitcoin.
-- VitaminX - os lançamentos contêm mineradores de bitcoin.
-- xGIROx - os pacotes contêm mineradores de bitcoin.
+- Seyter/Qoob - os pacotes instala mineradores de criptomoedas
+- VitaminX - os lançamentos instala mineradores de criptomoedas
+- xGIROx - os pacotes instala mineradores de criptomoedas
 ---
 !!! info
 	[Megathread do r/PiratedGames](https://rentry.org/pgames) foi traduzido e revisado para Português Brasileiro pelo pessoal do [r/pirataria](https://www.reddit.com/r/pirataria/).
